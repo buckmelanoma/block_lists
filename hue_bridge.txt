@@ -1,0 +1,16 @@
+# block list for domains hit by Philips Hue Bridge
+diagnostics.meethue.com
+diagnostics.eethue.com
+time1.google.com
+time2.google.com
+time3.google.com
+time4.google.com
+time5.google.com
+ws.meethue.com
+dcp.dc1.philips.com
+www2.meethue.com
+dp.dc1.philips.com
+www.ecdinterface.philips.com
+brands.lighting.philips.com.edgekey.net
+dc1-elb-52-1014907170.eu-west-1.elb.amazonaws.com
+dc1-elb-60-1305627412.eu-west-1.elb.amazonaws.com
