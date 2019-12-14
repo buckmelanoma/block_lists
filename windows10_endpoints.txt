@@ -1,6 +1,5 @@
 a-msedge.net
 account.live.com
-akamaiedge.net
 arc.msn.com
 ars.smartscreen.microsoft.com
 auth.gfx.ms
