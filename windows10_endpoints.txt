@@ -72,3 +72,15 @@ windowsupdate.com
 wns.windows.com
 www.msftconnecttest.com
 wus.client.hip.live.com.nsatc.net
+www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net
+prod.odcsm1.live.com.akadns.net
+prod-nam-api.acompli.net
+prod4-frontend-proxy.acompli.net
+prod4-files.acompli.net
+prda.aadg.msidentity.com
+login.microsoftonline.com
+aadcdn.msftauth.net
+aadcdn.msauthimages.net
+passwordreset.microsoftonline.com
+eus.client.hip.live.com
+scu.client.hip.live.com
