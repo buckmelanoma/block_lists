@@ -74,6 +74,7 @@ aria.microsoft.com
 ars.smartscreen.microsoft.com
 asimov-win.settings.data.microsoft.com.akadns.net
 aspnetcdn.com
+assets.onestore.ms
 atdmt.com
 atlas.c10r.facebook.com
 atlassolutions.com
@@ -1098,6 +1099,7 @@ redir.metaservices.microsoft.com.edgesuite.net
 redirection.prod.cms.msn.com
 redirection.prod.cms.msn.com.akadns.net
 register.mesh.com
+remoteassistance.support.services.microsoft.com
 reports.wes.df.telemetry.microsoft.com
 ris-prod-atm.trafficmanager.net
 ris.api.iris.microsoft.com
