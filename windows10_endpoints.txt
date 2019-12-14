@@ -72,3 +72,4 @@ whiteboard.ms
 windowsupdate.com
 wns.windows.com
 www.msftconnecttest.com
+wus.client.hip.live.com.nsatc.net
