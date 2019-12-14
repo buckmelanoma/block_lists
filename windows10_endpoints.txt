@@ -1,3 +1,5 @@
+# Last updated 12/14/2019 18:35UTC
+# Derived from https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1903-endpoints
 a-msedge.net
 account.live.com
 arc.msn.com
