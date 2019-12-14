@@ -71,5 +71,4 @@ whiteboard.microsoft.com
 whiteboard.ms
 windowsupdate.com
 wns.windows.com
-www.bing.com
 www.msftconnecttest.com
