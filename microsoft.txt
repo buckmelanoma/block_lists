@@ -2,7 +2,6 @@
 # Based on a few lists and Microsoft documents
 # Use with caution!
 # Updated 12/14/2019
-#
 
 a-0001.a-msedge.net
 a-0002.a-msedge.net
