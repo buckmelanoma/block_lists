@@ -1034,7 +1034,6 @@ oberon-media.com
 oca.telemetry.microsoft.com
 oca.telemetry.microsoft.com.nsatc.net
 ocos-office365-s2s.msedge.net
-ocsp.digicert.com
 od2.com
 office.net
 office2010test.com
