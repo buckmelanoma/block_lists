@@ -1,3 +1,6 @@
+# A blocklist for domains registered by The Trump Organization
+# Last updated 1/25/2020
+
 100trumpparc.com
 100trumpparceast.com
 106trumpparc.com
