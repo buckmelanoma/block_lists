@@ -1,4 +1,6 @@
-# block list for domains hit by Philips Hue Bridge
+# A block list of domains used by Philips Hue Bridges
+# Last updated 1/25/2020
+
 diagnostics.meethue.com
 diagnostics.eethue.com
 time1.google.com
