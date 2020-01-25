@@ -1,7 +1,7 @@
 # Microsoft Corp blocklist
-# Based on a few lists and Microsoft documents
-# Use with caution!
-# Updated 12/14/2019
+# Based on a few other MSFT lists and Microsoft's own disclosures
+# Use with caution as this will block Windows Update!
+# Updated 01/25/2020
 
 a-0001.a-msedge.net
 a-0002.a-msedge.net
@@ -12,6 +12,32 @@ a-0006.a-msedge.net
 a-0007.a-msedge.net
 a-0008.a-msedge.net
 a-0009.a-msedge.net
+a-0010.a-msedge.net
+a-0011.a-msedge.net
+a-0012.a-msedge.net
+a-0013.a-msedge.net
+a-0014.a-msedge.net
+a-0015.a-msedge.net
+a-0016.a-msedge.net
+a-0017.a-msedge.net
+a-0018.a-msedge.net
+a-0019.a-msedge.net
+a-0020.a-msedge.net
+a-0021.a-msedge.net
+a-0022.a-msedge.net
+a-0023.a-msedge.net
+a-0024.a-msedge.net
+a-0025.a-msedge.net
+a-0026.a-msedge.net
+a-0027.a-msedge.net
+a-0028.a-msedge.net
+a-0029.a-msedge.net
+a-0030.a-msedge.net
+a-0031.a-msedge.net
+a-0032.a-msedge.net
+a-0033.a-msedge.net
+a-0034.a-msedge.net
+a-0035.a-msedge.net
 a-msedge.net
 a.ads1.msn.com
 a.ads2.msads.net
@@ -36,7 +62,7 @@ a978.i6g1.akamai.net
 aadcdn.msauthimages.net
 aadcdn.msftauth.net
 ac3.msn.com
-accessvb.com
+accessvnb.com
 account.live.com
 account.microsoft.com
 activity.windows.com
